@@ -20,5 +20,5 @@ This project is a website for a chair shop located in the heart of Lisbon. The w
 
 ## Link 
 
--  [DEMO](href="https://momoozo.github.io/Lisbon-Chair-Shop/")
+-  [DEMO](https://momoozo.github.io/Lisbon-Chair-Shop/)
 
