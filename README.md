@@ -1,7 +1,8 @@
 ## Lisbon-Chair-Shop
 
 <img src="Chair-Shop.png">
-# Chair Shop Website
+
+## Chair Shop Website
 
 This project is a website for a chair shop located in the heart of Lisbon. The website aims to showcase the shop's unique chair designs and provide information about what makes these chairs special. It also highlights the bestselling chairs available in the store.
 
