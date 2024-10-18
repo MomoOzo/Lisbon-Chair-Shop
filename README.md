@@ -1,4 +1,4 @@
-# Lisbon-Chair-Shop
+## Lisbon-Chair-Shop
 
 <img src="Chair-Shop.png">
 # Chair Shop Website
