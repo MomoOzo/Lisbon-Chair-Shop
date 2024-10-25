@@ -15,8 +15,10 @@ This project is a website for a chair shop located in the heart of Lisbon. The w
 
 ## Technologies Used
 
+
 - HTML
 - CSS
+
 
 ## Link 
 
